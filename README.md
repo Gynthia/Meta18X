@@ -19,6 +19,8 @@ Meta18X is an adult live broadcast metaverse where users can create, experience,
 
 Website link: https://meta18x.live
 
+Whitepaper: https://docs.meta18x.live/
+
 Telegram: https://t.me/Meta18X_UNIVERSE
 
 Telegram Channel: https://t.me/Meta18X_Updates
