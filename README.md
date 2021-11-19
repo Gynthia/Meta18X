@@ -21,15 +21,13 @@ Website link: https://meta18x.live
 
 Whitepaper: https://docs.meta18x.live/
 
-Telegram: https://t.me/Meta18X_UNIVERSE
+Telegram: https://t.me/META18X_OFFICIAL
 
-Telegram Channel: https://t.me/Meta18X_Updates
+Telegram Channel: https://t.me/META18X_NEWS
 
 Twitter: https://twitter.com/Meta18X
 
 Medium: https://medium.com/@Meta18X
-
-Facebook: https://www.facebook.com/META18X
 
 Discord: https://discord.gg/zbmT4zdrE7
 
